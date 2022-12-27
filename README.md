@@ -1,2 +1,2 @@
 # FunPay
-Stuff 1.2.8b
+Stuff 1.3.0
