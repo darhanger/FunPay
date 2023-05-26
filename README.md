@@ -1,2 +1,2 @@
 # FunPay
-Stuff 1.3.4a
+Stuff 1.3.4b
